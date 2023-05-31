@@ -1,5 +1,5 @@
 import './App.css'
-import { LoginScreen } from './pages/LoginScreen'
+import { LoginScreen } from './pages/LoginScreen/LoginScreen'
 
 function App() {
 
